@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "license": "MIT",
+  "private": false,
   "description": "This is a description of the project",
   "authors": "Yash Sharma",
   "version": "0.0.2",
