@@ -3,7 +3,7 @@
   "license": "MIT",
   "description": "This is a description of the project",
   "authors": "Yash Sharma",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
